@@ -18,8 +18,9 @@ On settings.py file, change line 3 and line 11
 ```
 For the url to test, and your metamask mnemonir (Twelve words of your wallet) Example:
 ```
-HOST = "https://www.google.com/"
-METAMASK_MNEMONIC = "this are my twelve words of my own wallet it needs yours"
+ 3|HOST = "https://www.google.com/"
+ ...
+11|METAMASK_MNEMONIC = "this are my twelve words of my own wallet it needs yours"
 ```
 
 ## Start the test
