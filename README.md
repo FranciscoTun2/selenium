@@ -12,8 +12,9 @@ pip install selenium
 ## Configure Settings
 On settings.py file, change line 3 and line 11
 ```
-HOST = "https://staging.cryptoloteria.mx"
-METAMASK_MNEMONIC = "your have to insert your twelve words in this little space please"
+ 3|HOST = "https://staging.cryptoloteria.mx"
+...
+11|METAMASK_MNEMONIC = "your have to insert your twelve words in this little space please"
 ```
 For the url to test, and your metamask mnemonir (Twelve words of your wallet) Example:
 ```
