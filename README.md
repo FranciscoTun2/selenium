@@ -1,4 +1,4 @@
-# Cryptoloteria_test
+# Cryptoloteria Test
 
 The main objective of this project is to test the cryptopoloteria site
 
