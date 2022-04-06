@@ -27,3 +27,7 @@ You only need run with python like:
 ```
 python start_test.py
 ```
+
+## Notes
+-- Make sure that the version of your webdriver (cromedriver file) is compatible with the version of your chrome browser, if not, you can download it at the following link:
+cromedrivers versins["https://chromedriver.storage.googleapis.com/index.html"]
