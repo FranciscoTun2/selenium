@@ -8,5 +8,5 @@ class settings:
   METAMASK_PATH = './Extensions/MetaMask.crx'
 
   # !!![DANGER: Be careful with thius information]!!!
-  METAMASK_MNEMONIC = "hat surge again outdoor early sing word prosper erupt arrow shuffle popular"
+  METAMASK_MNEMONIC = "your have to insert your twelve words in this little space please"
   METAMASK_PASS = "hack_this_pass"
