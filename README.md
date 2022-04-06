@@ -9,7 +9,7 @@ Install selenium:
 pip install selenium
 ```
 
-## Configure Settings
+## Configure settings.py
 On settings.py file, change line 3 and line 11
 ```
  3|HOST = "https://staging.cryptoloteria.mx"
